@@ -378,18 +378,7 @@ insurance-cx-analysis/
 
 ---
 
-## 📈 SUCCESS METRICS FOR YOUR PORTFOLIO
-
-**What hiring managers will look for**:
-✅ **Clear business problem framing** (not just "I analyzed data")
-✅ **End-to-end workflow** (from raw data to recommendations)
-✅ **Multiple analysis techniques** (descriptive, predictive, prescriptive)
-✅ **Statistical rigor** (hypothesis testing, model validation)
-✅ **Actionable insights** (not just "correlations exist")
-✅ **Professional presentation** (clean code, good documentation)
-✅ **Industry relevance** (shows you understand insurance CX)
-
-**Your differentiators**:
+**My differentiators**:
 - Combined multiple advanced techniques in one cohesive project
 - Business ROI focus (not just technical exercise)
 - Persona development (shows CX empathy)
@@ -409,63 +398,5 @@ insurance-cx-analysis/
 
 **Total**: 36-48 hours of focused work
 
-**Suggested schedule** (if working part-time):
-- Week 1: Phases 1-2
-- Week 2: Phases 3-4
-- Week 3: Phases 5-6
-- Week 4: Documentation, dashboard polish, GitHub cleanup
-
 ---
 
-## 📝 PORTFOLIO PRESENTATION TIPS
-
-### **README.md Structure**:
-```markdown
-# Customer Lifetime Value Optimization Through Proactive Health Engagement
-
-## Business Context
-[1-2 paragraphs explaining the insurance industry challenge]
-
-## Project Overview
-- **Objective**: [Clear goal]
-- **Dataset**: 25,000 insurance policyholders, 24 features
-- **Techniques**: Segmentation, predictive modeling, A/B testing, ROI analysis
-
-## Key Findings
-1. [Finding 1 with metric]
-2. [Finding 2 with metric]
-3. [Finding 3 with metric]
-
-## Recommendations
-[3-5 actionable business recommendations]
-
-## Project Structure
-[Describe notebook flow]
-
-## Tools & Technologies
-Python | Pandas | Scikit-learn | Tableau | Git
-
-## Dashboard
-[Link to live dashboard or screenshots]
-
-## How to Run
-[Setup instructions]
-```
-
-### **DataCamp Workspace**:
-- Create a clean, narrative-driven notebook
-- Use markdown extensively to tell the story
-- Include business context before each analysis section
-- Add "So What?" after every finding
-- End with a summary of recommendations
-
----
-
-## 🎯 NEXT STEPS
-
-1. **Review this roadmap** - Any questions or adjustments?
-2. **Set up project structure** - Create GitHub repo, folders
-3. **Phase 1 execution** - Start with data cleaning
-4. **Iterative review** - I can help at each phase if needed
-
-Ready to start? Let's begin with Phase 1! 🚀

@@ -229,6 +229,6 @@
 
 ---
 
-**Maintained By:** Rodion  
+**Maintained By:** Rodion Barskov 
 **Project:** Insurance CX Portfolio  
 **Last Updated:** December 28, 2025
