@@ -166,8 +166,6 @@ python 02_exploratory_analysis.py
 - Engagement (checkups, doctor visits, hospital admissions)
 - Business Metrics (insurance cost, tenure, competitive coverage)
 
-*Note: Data files are not included in repository due to size. Original dataset available on Kaggle.*
-
 ---
 
 ## 💼 Business Value for CX Roles
@@ -187,10 +185,8 @@ This project demonstrates:
 
 ## 📫 Connect
 
-**Portfolio Project By:** Rodion  
-**LinkedIn:** [Your LinkedIn]  
-**Email:** [Your Email]  
-**Looking for:** CX Data Analyst roles in Insurance industry
+**Portfolio Project By:** Rodion Barskov  
+**LinkedIn:** [https://www.linkedin.com/in/rodion-b-258b28248/]  
 
 ---
 
