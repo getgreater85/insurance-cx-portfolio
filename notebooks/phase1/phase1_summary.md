@@ -2,7 +2,7 @@
 ## Customer Lifetime Value Optimization Through Proactive Health Engagement
 
 **Project:** CX Data Analyst Portfolio - Insurance Industry  
-**Author:** Rodion  
+**Author:** Rodion Barskov
 **Date:** December 2025  
 **Status:** ✅ Phase 1 Complete
 
@@ -343,7 +343,7 @@ Created 11 new features to support CX analysis:
 
 ---
 
-## 🎓 Lessons Learned
+## 🎓 What I Learned
 
 **Surprising Findings:**
 1. Health risk has minimal correlation with current costs (suggests pricing opportunities)
@@ -377,8 +377,6 @@ Created 11 new features to support CX analysis:
 - [x] Code documented and reproducible
 - [x] Files organized and exported
 - [x] Summary report completed
-
-**Status: ✅ READY FOR PHASE 2**
 
 ---
 

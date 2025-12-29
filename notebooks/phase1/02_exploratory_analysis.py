@@ -9,7 +9,7 @@ This script performs comprehensive EDA including:
 4. Customer segment profiling
 5. Key business insights visualization
 
-Author: Rodion
+Author: Rodion Barskov
 Date: December 2025
 """
 
@@ -375,4 +375,3 @@ print("  1. 01_univariate_distributions.png")
 print("  2. 02_cost_by_segments.png")
 print("  3. 03_correlation_heatmap.png")
 print("  4. 04_key_insights.png")
-print("\nNext: Proceed to Phase 2 - Customer Segmentation & Retention Analysis")

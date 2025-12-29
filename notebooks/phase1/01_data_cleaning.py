@@ -9,7 +9,7 @@ This script performs:
 4. Feature engineering (basic)
 5. Export cleaned dataset
 
-Author: Rodion
+Author: Rodion Barskov
 Date: December 2025
 """
 
