@@ -1,0 +1,14 @@
+DATA CLEANING LOG
+======================================================================
+
+Date: December 2025
+Original records: 25,000
+Cleaned records: 25,000
+
+CLEANING STEPS:
+1. Fixed typo: 'Salried' → 'Salaried'
+2. Imputed 990 missing BMI values using gender/age-stratified median
+3. Year_last_admitted: 11881 missing values retained (indicates never admitted)
+4. Created 'ever_admitted' binary feature from Year_last_admitted
+5. Created binary 'has_other_coverage' feature
+6. Created cholesterol_numeric from range midpoints
