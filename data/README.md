@@ -168,5 +168,5 @@ For detailed feature descriptions and metadata, see: `docs/data_dictionary.md`
 
 ---
 
-**Data Steward:** Rodion  
+**Data Steward:** Rodion Barskov 
 **Last Updated:** December 28, 2025

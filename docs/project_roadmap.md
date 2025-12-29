@@ -141,11 +141,11 @@ engagement_score = (
 
 ### 3.3 Persona Development
 **Create 4-5 customer personas**:
-1. **Health Champion**: Elite engagement, long tenure, lower costs
-2. **Prevention Avoider**: Low engagement, high costs, moderate tenure
-3. **New & Uncertain**: New customer, mid engagement, exploring options
-4. **High-Risk Engaged**: Health issues but proactive (regular checkups despite high costs)
-5. **Loyal but Declining**: Long tenure but engagement dropping
+i) **Health Champion**: Elite engagement, long tenure, lower costs
+ii) **Prevention Avoider**: Low engagement, high costs, moderate tenure
+iii) **New & Uncertain**: New customer, mid engagement, exploring options
+iv) **High-Risk Engaged**: Health issues but proactive (regular checkups despite high costs)
+v) **Loyal but Declining**: Long tenure but engagement dropping
 
 **For each persona**:
 - Size of segment
@@ -235,9 +235,9 @@ Costs = Premium Discounts Given
 
 ### 5.3 Scenario Analysis
 **Create 3 scenarios**:
-1. **Conservative**: 15% checkup increase, 3% churn reduction
-2. **Expected**: 25% checkup increase, 5% churn reduction
-3. **Optimistic**: 35% checkup increase, 8% churn reduction
+A. **Conservative**: 15% checkup increase, 3% churn reduction
+B. **Expected**: 25% checkup increase, 5% churn reduction
+C. **Optimistic**: 35% checkup increase, 8% churn reduction
 
 **Deliverables**:
 - Simulation results table (control vs. treatment comparison)
@@ -291,34 +291,34 @@ Costs = Premium Discounts Given
 ### 6.2 Strategic Recommendations Document
 
 **Structure**:
-1. **Executive Summary** (1 page)
+I. **Executive Summary** (1 page)
    - Business problem
    - Key findings
    - Recommended actions
    - Expected impact
 
-2. **Customer Retention Strategy**
+II. **Customer Retention Strategy**
    - At-risk segment size and characteristics
    - Retention tactics by cohort
    - Predictive model insights
 
-3. **Health Engagement Program**
+III. **Health Engagement Program**
    - Engagement scoring methodology
    - Persona-based communication strategies
    - Wellness incentive design
 
-4. **Geographic Expansion & Competitive Defense**
+IV. **Geographic Expansion & Competitive Defense**
    - High-growth markets
    - Competitive threat zones
    - Market-specific tactics
 
-5. **Wellness Discount Program**
+V. **Wellness Discount Program**
    - Program design
    - Financial projections (ROI)
    - Implementation plan
    - Success metrics
 
-6. **Next Steps & Roadmap**
+VI. **Next Steps & Roadmap**
    - Quick wins (0-3 months)
    - Medium-term initiatives (3-6 months)
    - Long-term strategy (6-12 months)
