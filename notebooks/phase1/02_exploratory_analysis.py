@@ -9,7 +9,7 @@ This script performs comprehensive EDA including:
 4. Customer segment profiling
 5. Key business insights visualization
 
-Author: Rodion
+Author: Rodion Barskov
 Date: December 2025
 """
 
