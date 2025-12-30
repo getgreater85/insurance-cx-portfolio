@@ -1,0 +1,6 @@
+cluster,segment_name,size,pct_of_total
+0,Segment A,5354,21.42
+1,Segment B,3249,13.0
+2,Segment C,5458,21.83
+3,Segment D,4094,16.38
+4,Segment E,6845,27.38

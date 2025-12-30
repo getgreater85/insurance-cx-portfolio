@@ -1,0 +1,6 @@
+cluster,age_mean,years_of_insurance_with_us_mean,bmi_mean,health_risk_score_mean,cholesterol_numeric_mean,avg_glucose_level_mean,smoker_mean,obesity_mean,exercise_numeric_mean,daily_avg_steps_mean,regular_checkup_lasy_year_mean,visited_doctor_last_1_year_mean,insurance_cost_mean,insurance_cost_median,has_other_coverage_mean,size,pct_of_total
+0,45.07,5.27,30.34,1.44,160.24,162.23,0.29,0.49,1.0,5195.29,0.41,3.14,30842.86,30850.0,1.0,5354,21.42
+1,45.97,4.33,30.66,1.61,164.93,170.17,0.32,0.52,1.0,5191.4,3.28,3.1,20650.22,20978.0,0.3,3249,13.0
+2,43.71,3.5,37.4,2.27,154.4,198.5,0.49,0.91,1.0,5180.58,0.38,3.14,26497.54,27148.0,0.04,5458,21.83
+3,44.71,3.91,32.16,2.71,222.58,176.88,0.41,0.62,1.03,5347.5,0.51,2.98,27543.46,27148.0,0.25,4094,16.38
+4,45.39,3.62,27.2,0.89,157.85,140.14,0.18,0.26,1.0,5193.06,0.34,3.12,27622.13,28382.0,0.0,6845,27.38
