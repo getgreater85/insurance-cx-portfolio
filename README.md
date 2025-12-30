@@ -166,7 +166,10 @@ python 02_exploratory_analysis.py
 - Engagement (checkups, doctor visits, hospital admissions)
 - Business Metrics (insurance cost, tenure, competitive coverage)
 
+*⚠️ Note: This is mock/synthetic data from Kaggle. The dataset exhibits unrealistic patterns (e.g., health risk factors show minimal correlation with insurance costs), which would not occur in real actuarial pricing. This limitation is acknowledged in the analysis and demonstrates critical data quality assessment skills.*
+
 ---
+
 
 ## 💼 Business Value for CX Roles
 
