@@ -151,6 +151,8 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 
 **Critical Finding:** 20.5% of customers have 3-4 risk factors but show similar costs to healthier customers, indicating opportunity for risk-based pricing or preventive interventions.
 
+**⚠️ Data Quality Note:** The inverse relationship observed (higher risk = lower cost for group 4) is unrealistic and indicates synthetic data generation without proper business logic. Real insurance pricing would show a strong positive correlation between risk factors and premiums.
+
 ---
 
 ### 4. Customer Engagement Patterns
