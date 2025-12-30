@@ -21,6 +21,16 @@ data/
 
 ## Dataset Information
 
+### Known Limitations (Mock Data)
+⚠️ **Unrealistic Risk-Cost Relationships:** Health risk factors (smoking, obesity, cholesterol, glucose) show minimal to inverse correlation with insurance costs. In real insurance data, these would be strong positive predictors due to actuarial pricing.
+
+This limitation affects:
+- Cost prediction models (weak health risk signals)
+- Segment profiling (similar costs across risk levels)
+- Business insights (must be interpreted cautiously)
+
+**Implication:** Analysis focuses on demonstrating analytical methodology rather than claiming real-world pricing insights.
+
 ### Raw Data: `insurance_data.csv`
 - **Source:** Kaggle Health Insurance Dataset (mock data)
 - **Size:** 25,000 rows × 24 columns
@@ -36,7 +46,6 @@ data/
   - Occupation typo corrected
   - 11 engineered features added
   - All categorical variables standardized
-- **Data Quality:** A+ (Ready for modeling)
 
 ---
 

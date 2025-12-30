@@ -121,6 +121,19 @@ Created 11 new features to support CX analysis:
 
 ---
 
+## ⚠️ **Data Quality Limitation - Mock Dataset**
+
+**⚠️ IMPORTANT:** This mock dataset exhibits unrealistic patterns where health risk factors show minimal to inverse correlation with insurance costs (r ≈ -0.007). In real-world insurance data, smokers, obese customers, and those with multiple risk factors would pay significantly higher premiums due to actuarial pricing.
+
+**Impact on Analysis:**
+- Cost prediction models show weak health risk signals
+- Segment profiling shows similar costs across risk levels  
+- Business insights demonstrate analytical methodology rather than real pricing recommendations
+
+This limitation is acknowledged and demonstrates critical data quality assessment skills.
+
+---
+
 ### 3. Health Profile & Risk
 
 **Prevalence of Risk Factors:**
@@ -137,6 +150,8 @@ Created 11 new features to support CX analysis:
 - Score 4 (all risk factors): 2.5% (635)
 
 **Critical Finding:** 20.5% of customers have 3-4 risk factors but show similar costs to healthier customers, indicating opportunity for risk-based pricing or preventive interventions.
+
+**⚠️ Data Quality Note:** The inverse relationship observed (higher risk = lower cost for group 4) is unrealistic and indicates synthetic data generation without proper business logic. Real insurance pricing would show a strong positive correlation between risk factors and premiums.
 
 ---
 
