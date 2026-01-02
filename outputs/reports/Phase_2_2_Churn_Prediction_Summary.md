@@ -5,8 +5,6 @@
 **Analyst:** Rodion Barskov  
 **Status:** ✅ Complete
 
-[🔝 Back to Top](#phase-22-churn-prediction-analysis---executive-summary)
-
 ---
 
 ## 📑 Table of Contents
@@ -27,8 +25,6 @@
 
 ## 📋 Executive Summary
 
-[🔝 Back to Top](#phase-22-churn-prediction-analysis---executive-summary)
-
 We built a predictive model to identify customers at highest risk of leaving. The model analyzed 7,500 customers and successfully identified **99.5% of at-risk customers**, allowing us to prioritize retention efforts where they matter most.
 
 ### 🎯 Key Finding
@@ -44,8 +40,6 @@ We built a predictive model to identify customers at highest risk of leaving. Th
 | 🔴 **High Risk** | 2,108 (28%) | $58.1M | $27,558 | **Immediate** |
 | 🟡 **Medium Risk** | 751 (10%) | $20.4M | $27,131 | High |
 | 🟢 **Low Risk** | 4,641 (62%) | $125.9M | $27,128 | Monitor |
-
-[🔝 Back to Top](#phase-22-churn-prediction-analysis---executive-summary)
 
 ---
 
@@ -99,8 +93,6 @@ We built a predictive model to identify customers at highest risk of leaving. Th
 ---
 
 ## 📊 Model Performance
-
-[🔝 Back to Top](#phase-22-churn-prediction-analysis---executive-summary)
 
 Our logistic regression model achieves:
 - **84.5% accuracy** (ROC-AUC score) at distinguishing churners from safe customers
@@ -208,8 +200,6 @@ graph LR
 ---
 
 
-[🔝 Back to Top](#phase-22-churn-prediction-analysis---executive-summary)
-
 ## 🎯 Churn Risk by Customer Segment
 
 | Cluster | Segment Name | Avg Churn Probability | Priority |
@@ -224,8 +214,6 @@ graph LR
 
 ---
 
-
-[🔝 Back to Top](#phase-22-churn-prediction-analysis---executive-summary)
 
 ## 📈 ROI Projection: Retention Campaign
 
@@ -258,7 +246,6 @@ ROI: 2,662% (26.6x return)
 
 ---
 
-
 [🔝 Back to Top](#phase-22-churn-prediction-analysis---executive-summary)
 
 ## 🚀 Implementation Roadmap
@@ -288,9 +275,6 @@ ROI: 2,662% (26.6x return)
 - [ ] Calculate actual retention ROI and iterate
 
 ---
-
-
-[🔝 Back to Top](#phase-22-churn-prediction-analysis---executive-summary)
 
 ## 📊 Success Metrics
 
@@ -325,8 +309,6 @@ A: Minimal. Retention outreach to happy customers strengthens relationships. The
 
 ---
 
-
-[🔝 Back to Top](#phase-22-churn-prediction-analysis---executive-summary)
 
 ## 🎯 Next Steps
 
