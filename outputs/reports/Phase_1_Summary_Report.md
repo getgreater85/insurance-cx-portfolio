@@ -395,7 +395,7 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 ---
 
 
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+[↑ Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
 
 ## 🎓 Lessons Learned
 
@@ -417,7 +417,7 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 ---
 
 
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+[↑ Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
 
 ## ✅ Phase 1 Checklist
 
