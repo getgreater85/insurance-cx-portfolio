@@ -6,9 +6,28 @@
 **Date:** December 2025  
 **Status:** ✅ Phase 1 Complete
 
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+
+---
+
+## 📑 Table of Contents
+
+1. [Executive Summary](#-executive-summary)
+2. [Dataset Overview](#-dataset-overview)
+3. [Data Cleaning Actions](#-data-cleaning-actions)
+4. [Key Findings from EDA](#-key-findings-from-eda)
+5. [Business Insights for CX Strategy](#-business-insights-for-cx-strategy)
+6. [Deliverables](#-deliverables)
+7. [Data Quality Scorecard](#-data-quality-scorecard)
+8. [Technical Skills Demonstrated](#-technical-skills-demonstrated)
+9. [Next Steps: Phase 2](#-next-steps-phase-2)
+10. [Portfolio Notes](#-portfolio-notes)
+
 ---
 
 ## 📋 Executive Summary
+
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
 
 Phase 1 successfully completed data cleaning, feature engineering, and comprehensive exploratory data analysis on 25,000 insurance policyholders. The cleaned dataset now contains 35 features (11 newly engineered) and is ready for advanced analytics in Phase 2.
 
@@ -20,6 +39,9 @@ Phase 1 successfully completed data cleaning, feature engineering, and comprehen
 - ✅ Customer segment profiles
 
 ---
+
+
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
 
 ## 🎯 Dataset Overview
 
@@ -39,6 +61,9 @@ Phase 1 successfully completed data cleaning, feature engineering, and comprehen
 - Ready for modeling and analysis
 
 ---
+
+
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
 
 ## 🛠️ Data Cleaning Actions
 
@@ -75,6 +100,9 @@ Created 11 new features to support CX analysis:
 - `has_other_coverage`: Dual insurance indicator (binary)
 
 ---
+
+
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
 
 ## 📊 Key Findings from EDA
 
@@ -206,6 +234,9 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 
 ---
 
+
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+
 ## 💡 Business Insights for CX Strategy
 
 ### 🎯 Opportunity 1: **Preventive Care Engagement Gap**
@@ -234,6 +265,9 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 **CX Action:** VIP services, premium benefits, price justification
 
 ---
+
+
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
 
 ## 📁 Deliverables
 
@@ -272,6 +306,9 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 
 ---
 
+
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+
 ## 📊 Technical Skills Demonstrated
 
 ### ✅ Data Wrangling
@@ -303,6 +340,9 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 - Actionable insights generation
 
 ---
+
+
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
 
 ## 🚀 Next Steps: Phase 2
 
@@ -358,6 +398,9 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 
 ---
 
+
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+
 ## 🎓 Lessons Learned
 
 **Surprising Findings:**
@@ -376,6 +419,9 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 - Value of statistical testing to validate intuitions
 
 ---
+
+
+[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
 
 ## ✅ Phase 1 Checklist
 
