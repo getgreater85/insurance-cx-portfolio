@@ -6,7 +6,7 @@
 **Date:** December 2025 - TBD  
 **Status:** ✅ Phase 1 Complete
 
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+[🔝 Back to Top](#phase-1-complete-data-preparation-exploratory-analysis)
 
 ---
 
