@@ -36,9 +36,6 @@ Phase 1 successfully completed data cleaning, feature engineering, and comprehen
 
 ---
 
-
-[🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
-
 ## 🎯 Dataset Overview
 
 **Original Data:**
@@ -59,7 +56,7 @@ Phase 1 successfully completed data cleaning, feature engineering, and comprehen
 ---
 
 
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+[🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
 ## 🛠️ Data Cleaning Actions
 
@@ -98,7 +95,7 @@ Created 11 new features to support CX analysis:
 ---
 
 
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+[🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
 ## 📊 Key Findings from EDA
 
@@ -157,6 +154,8 @@ Created 11 new features to support CX analysis:
 This limitation is acknowledged and demonstrates critical data quality assessment skills.
 
 ---
+
+[🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
 ### 3. Health Profile & Risk
 
@@ -231,7 +230,7 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 ---
 
 
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+[🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
 ## 💡 Business Insights for CX Strategy
 
@@ -263,7 +262,7 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 ---
 
 
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+[🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
 ## 📁 Deliverables
 
@@ -303,7 +302,7 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 ---
 
 
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+[🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
 ## 📊 Technical Skills Demonstrated
 
@@ -338,7 +337,7 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 ---
 
 
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+[🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
 ## 🚀 Next Steps: Phase 2
 
@@ -395,7 +394,7 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 ---
 
 
-[↑ Back to Top](#phase-1-data-preparation--exploratory-analysis)
+[🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
 ## 🎓 Lessons Learned
 
@@ -415,9 +414,6 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 - Value of statistical testing to validate intuitions
 
 ---
-
-
-[↑ Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
 ## ✅ Phase 1 Checklist
 
@@ -439,3 +435,5 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 ---
 
 *This analysis was conducted as part of a portfolio project for CX Data Analyst roles in the insurance industry. All analysis is based on publicly available Kaggle mock data.*
+
+[🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
