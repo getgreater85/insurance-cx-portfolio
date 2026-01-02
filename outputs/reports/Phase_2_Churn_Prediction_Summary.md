@@ -242,6 +242,7 @@ A: Minimal. Retention outreach to happy customers strengthens relationships. The
 ---
 
 **Prepared by:** Rodion Barskov 
+
 **Project:** Insurance CX Portfolio - Phase 2.2 Churn Prediction
 
 ---
