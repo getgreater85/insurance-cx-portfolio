@@ -94,6 +94,32 @@ Created 11 new features to support CX analysis:
 
 ---
 
+### 📋 Data Cleaning Pipeline
+
+```mermaid
+graph LR
+    A[Raw Data<br/>25,000 records] --> B[Missing Values<br/>BMI imputation]
+    B --> C[Standardization<br/>Fix typos, encode]
+    C --> D[Feature Engineering<br/>11 new features]
+    D --> E[Validation<br/>Quality checks]
+    E --> F[Clean Dataset<br/>Ready for analysis]
+    
+    style A fill:#ffe1e1
+    style B fill:#fff4e1
+    style C fill:#e1f5ff
+    style D fill:#e1ffe1
+    style E fill:#ffe1f5
+    style F fill:#e1ffe1
+```
+
+**Pipeline Results:**
+- ✅ 0 duplicates removed
+- ✅ 990 BMI values imputed (3.96%)
+- ✅ 1 typo corrected
+- ✅ 11 features engineered
+- ✅ 100% data quality validated
+
+---
 
 [🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
@@ -306,36 +332,37 @@ This limitation is acknowledged and demonstrates critical data quality assessmen
 
 ## 📊 Technical Skills Demonstrated
 
-### ✅ Data Wrangling
-- Missing value imputation (stratified median)
-- Categorical encoding
-- Feature engineering (11 new features)
-- Data type conversions
-- Text standardization
-
-### ✅ Statistical Analysis
-- Descriptive statistics
-- Hypothesis testing (t-test, ANOVA)
-- Correlation analysis
-- Distribution analysis
-- Outlier detection
-
-### ✅ Visualization
-- Univariate distributions (histograms, bar charts)
-- Bivariate analysis (box plots, scatter plots)
-- Correlation heatmaps
-- Segment comparisons
-- Business insights dashboards
-
-### ✅ Business Analytics
-- Customer segmentation
-- Risk profiling
-- Competitive analysis
-- High-value customer identification
-- Actionable insights generation
-
----
-
+````
+┌───────────────────────┐  ┌───────────────────────┐  ┌──────────────────┐
+│   DATA WRANGLING      │  │ STATISTICAL ANALYSIS  │  │  VISUALIZATION   │
+├───────────────────────┤  ├───────────────────────┤  ├──────────────────┤
+│ • Missing value       │  │ • Descriptive stats   │  │ • Distributions  │
+│   imputation          │  │ • Hypothesis testing  │  │ • Bivariate      │
+│ • Categorical         │  │   (t-test, ANOVA)     │  │   analysis       │
+│   encoding            │  │ • Correlation         │  │ • Heatmaps       │
+│ • Feature engineering │  │   analysis            │  │ • Segment        │
+│   (11 new features)   │  │ • Distribution        │  │   comparisons    │
+│ • Data type           │  │   analysis            │  │ • Business       │
+│   conversions         │  │ • Outlier detection   │  │   dashboards     │
+│ • Text                │  │                       │  │                  │
+│   standardization     │  │                       │  │                  │
+└───────────────────────┘  └───────────────────────┘  └──────────────────┘
+           │                          │                         │
+           └──────────────────────────┼─────────────────────────┘
+                                      │
+                                      ▼
+                        ┌─────────────────────────┐
+                        │  BUSINESS ANALYTICS     │
+                        ├─────────────────────────┤
+                        │ • Customer segmentation │
+                        │ • Risk profiling        │
+                        │ • Competitive analysis  │
+                        │ • High-value customer   │
+                        │   identification        │
+                        │ • Actionable insights   │
+                        │   generation            │
+                        └─────────────────────────┘
+````
 
 [🔝 Back to Top](#phase-1-data-preparation--exploratory-analysis)
 
