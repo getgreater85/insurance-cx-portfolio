@@ -1,4 +1,4 @@
-# 2.1 Churn Prediction Analysis - Executive Summary
+# 2.2 Churn Prediction Analysis - Executive Summary
 ## Insurance CX Portfolio Project
 
 **Date:** December 30, 2025  
