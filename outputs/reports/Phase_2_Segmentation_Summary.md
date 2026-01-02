@@ -5,9 +5,26 @@
 **Analyst:** Rodion  
 **Status:** ✅ Complete
 
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
+
+---
+
+## 📑 Table of Contents
+
+1. [Executive Summary for Stakeholders](#-executive-summary-for-stakeholders)
+2. [Technical Segmentation Results](#-technical-segmentation-results)
+3. [Customer Segments Identified](#-customer-segments-identified)
+4. [Key Insights](#-key-insights)
+5. [Segment Size & Distribution](#-segment-size--distribution)
+6. [CX Strategy Recommendations](#-cx-strategy-recommendations)
+7. [Deliverables](#-deliverables)
+8. [Next Steps](#-next-steps)
+
 ---
 
 ## 📋 Executive Summary for Stakeholders
+
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 We analyzed 25,000 customers and discovered **5 distinct groups** with very different needs and risks. Here's what matters most:
 
@@ -72,9 +89,13 @@ We analyzed 25,000 customers and discovered **5 distinct groups** with very diff
 
 **Bottom Line:** This segmentation allows us to tailor communications and programs instead of treating all 25,000 customers the same way. The data shows clear patterns - preventive care works (Cluster 1), dual coverage signals churn risk (Cluster 0), and health intervention is urgent (Cluster 2).
 
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
+
 ---
 
 ## 📊 Technical Segmentation Results
+
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 ### Methodology
 - **Algorithm:** K-means clustering
@@ -82,169 +103,261 @@ We analyzed 25,000 customers and discovered **5 distinct groups** with very diff
 - **Optimal k:** 5 clusters (determined by silhouette analysis)
 - **Standardization:** StandardScaler applied to all features
 
+### 📋 Segmentation Process
+
+```mermaid
+graph LR
+    A[Clustered Data<br/>25,000 customers] --> B[Feature Selection<br/>11 variables]
+    B --> C[Standardization<br/>StandardScaler]
+    C --> D[K-means Clustering<br/>k=5 optimal]
+    D --> E[Validation<br/>Silhouette analysis]
+    E --> F[5 Segments<br/>Profiled & named]
+    
+    style A fill:#e1f5ff
+    style B fill:#fff4e1
+    style C fill:#ffe1f5
+    style D fill:#e1ffe1
+    style E fill:#fff4e1
+    style F fill:#e1ffe1
+```
+
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
+
 ---
 
 ## 👥 Customer Segments Identified
 
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
+
 ### **Cluster 0: "Dual Coverage Premium" (21.4%, n=5,354)**
 
-**Profile:**
+<table>
+<tr>
+<td width="50%">
+
+**📊 Profile**
 - Age: 45.1 years (mature)
 - Tenure: 5.3 years (most loyal)
-- Health Risk: 1.44 / 4.0 (moderate-low)
-- **100% have dual insurance coverage** ⚠️
-- Insurance cost: **$30,843** (highest)
-- Checkups: 0.41/year (below average)
+- Health Risk: 1.44/4.0 (moderate-low)
+- **100% have dual coverage** ⚠️
+- Cost: **$30,843** (highest)
+- Checkups: 0.41/year (below avg)
 
-**Key Characteristics:**
-- Every single customer has competing insurance
+**⚡ Key Characteristics**
+- Every customer has competing insurance
 - Longest tenure but highest churn risk
 - Paying premium prices
-- Moderate health profile (29% smokers, 49% obese)
+- Moderate health (29% smokers, 49% obese)
 
-**CX Strategy:**
-- **Urgent retention focus** - extreme competitive risk
-- Exclusive benefits program to justify premium
+</td>
+<td width="50%">
+
+**🎯 CX Strategy**
+- **Urgent retention focus**
+- Exclusive benefits program
 - Personalized account management
 - Price competitiveness analysis
-- Loyalty rewards to prevent switching
+- Loyalty rewards
 
-**Pain Points:**
-- May feel overcharged compared to competitors
+**😟 Pain Points**
+- Feel overcharged vs competitors
 - Shopping for better rates
 - Need value justification
+
+**💰 Revenue Impact:** $165M at risk
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### **Cluster 1: "Engaged Wellness Seekers" (13.0%, n=3,249)**
 
-**Profile:**
+<table>
+<tr>
+<td width="50%">
+
+**📊 Profile**
 - Age: 46.0 years
 - Tenure: 4.3 years
-- Health Risk: 1.61 / 4.0 (moderate)
+- Health Risk: 1.61/4.0 (moderate)
 - Dual coverage: 30% (moderate risk)
-- Insurance cost: **$20,650** (lowest)
-- Checkups: **3.28/year** (8x higher than average!) ⭐
+- Cost: **$20,650** (lowest)
+- Checkups: **3.28/year** (8x avg!) ⭐
 
-**Key Characteristics:**
-- Highest preventive care engagement by far
-- Proactive about health despite moderate risk
-- Lower costs reflect good health management
-- 32% smokers, 52% obese but managing it
+**⚡ Key Characteristics**
+- Highest preventive care engagement
+- Proactive about health
+- Lower costs = good management
+- 32% smokers, 52% obese (managing it)
 
-**CX Strategy:**
-- **Reward and amplify** engagement behavior
-- Wellness program champions/ambassadors
-- Premium discounts for continued engagement
-- Health coaching upsell opportunities
-- Testimonials and referral programs
+</td>
+<td width="50%">
 
-**Pain Points:**
+**🎯 CX Strategy**
+- **Reward & amplify** engagement
+- Wellness champions/ambassadors
+- Premium discounts for engagement
+- Health coaching upsell
+- Testimonials & referrals
+
+**😟 Pain Points**
 - Want recognition for healthy behaviors
-- May seek better wellness benefits elsewhere
+- May seek better wellness benefits
+
+**💰 Revenue Impact:** $67M (protect + expand)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### **Cluster 2: "High-Risk Obese" (21.8%, n=5,458)**
 
-**Profile:**
+<table>
+<tr>
+<td width="50%">
+
+**📊 Profile**
 - Age: 43.7 years (youngest)
 - Tenure: 3.5 years
-- Health Risk: **2.27 / 4.0** (second highest)
+- Health Risk: **2.27/4.0** (2nd highest)
 - **90.6% obese** (BMI 37.4)
 - **49% smokers** (highest)
 - Dual coverage: 4.4% (low flight risk)
-- Insurance cost: $26,498
+- Cost: $26,498
 - Checkups: 0.38/year (very low)
 
-**Key Characteristics:**
+**⚡ Key Characteristics**
 - Youngest but highest risk profile
 - Severely obese population
 - High smoking rate
-- Very low preventive care engagement
-- Not shopping around (low dual coverage)
+- Very low engagement
+- Not shopping around
 
-**CX Strategy:**
-- **Intensive health intervention needed**
-- Targeted obesity/smoking cessation programs
+</td>
+<td width="50%">
+
+**🎯 CX Strategy**
+- **Intensive health intervention**
+- Obesity/smoking cessation programs
 - Incentivized preventive screenings
 - Disease management enrollment
-- Higher touch customer support
+- Higher touch support
 
-**Pain Points:**
+**😟 Pain Points**
 - Health challenges creating barriers
-- May not prioritize preventive care
-- Future claims costs will be substantial
+- Not prioritizing preventive care
+- Future claims costs substantial
+
+**💰 Revenue Impact:** $145M (intervention needed)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### **Cluster 3: "Moderate Risk, Moderate Engagement" (16.4%, n=4,094)**
 
-**Profile:**
+<table>
+<tr>
+<td width="50%">
+
+**📊 Profile**
 - Age: 44.7 years
 - Tenure: 3.9 years
-- Health Risk: **2.71 / 4.0** (highest)
+- Health Risk: **2.71/4.0** (highest)
 - BMI: 32.2 (obese)
 - 41% smokers
 - Dual coverage: 24.6%
-- Insurance cost: $27,543
-- Checkups: 0.51/year (low but better than some)
+- Cost: $27,543
+- Checkups: 0.51/year (low but better)
 
-**Key Characteristics:**
+**⚡ Key Characteristics**
 - Highest overall health risk score
 - Moderate obesity and smoking
 - Some preventive care engagement
 - Quarter have dual coverage
 
-**CX Strategy:**
-- **Risk stratification** - identify high-priority subgroups
-- Chronic condition management programs
-- Moderate retention risk - competitive monitoring
-- Smoking cessation incentives
-- Wellness nudges to increase checkup frequency
+</td>
+<td width="50%">
 
-**Pain Points:**
+**🎯 CX Strategy**
+- **Risk stratification** - identify high-priority
+- Chronic condition management
+- Moderate retention risk monitoring
+- Smoking cessation incentives
+- Wellness nudges for checkups
+
+**😟 Pain Points**
 - Multiple health risk factors
-- May not fully appreciate risk level
-- Some price sensitivity (dual coverage)
+- May not appreciate risk level
+- Some price sensitivity
+
+**💰 Revenue Impact:** $113M (stabilize + improve)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### **Cluster 4: "Low-Risk Healthy Base" (27.4%, n=6,845)**
 
-**Profile:**
+<table>
+<tr>
+<td width="50%">
+
+**📊 Profile**
 - Age: 45.4 years
 - Tenure: 3.6 years
-- Health Risk: **0.89 / 4.0** (lowest - healthiest!)
-- BMI: 27.2 (lowest, near-normal)
+- Health Risk: **0.89/4.0** (lowest!)
+- BMI: 27.2 (near-normal)
 - Only 18% smokers (lowest)
 - Only 26% obese (lowest)
 - Dual coverage: 0.09% (virtually none)
-- Insurance cost: $27,622
+- Cost: $27,622
 - Checkups: 0.34/year (low)
 
-**Key Characteristics:**
+**⚡ Key Characteristics**
 - Largest segment (27%)
 - Healthiest customer base
 - Very low competitive risk
-- Low engagement despite being healthy
+- Low engagement despite health
 - Paying average premiums despite low risk
 
-**CX Strategy:**
-- **Maintain and prevent migration**
-- Wellness education (staying healthy)
-- Reward low-risk status with benefits
-- Fitness/activity programs
-- Cross-sell opportunities (family plans)
+</td>
+<td width="50%">
 
-**Pain Points:**
-- May not see value in insurance (rarely use it)
-- Low engagement could mean disengagement
-- Risk of switching if better price offered
+**🎯 CX Strategy**
+- **Maintain & prevent migration**
+- Wellness education (staying healthy)
+- Reward low-risk status
+- Fitness/activity programs
+- Cross-sell (family plans)
+
+**😟 Pain Points**
+- May not see value (rarely use)
+- Low engagement = potential disengagement
+- Risk of switching for better price
+
+**💰 Revenue Impact:** $189M (protect this base)
+
+</td>
+</td>
+</tr>
+</table>
+
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 ---
 
 ## 🎯 Key Insights
+
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 ### Critical Findings:
 
@@ -266,9 +379,13 @@ We analyzed 25,000 customers and discovered **5 distinct groups** with very diff
 4. **Medium:** Address Cluster 3 health risks before escalation
 5. **Low:** Maintain Cluster 4 satisfaction
 
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
+
 ---
 
 ## 📈 Segment Size & Distribution
+
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 | Cluster | Segment Name | Size | % of Base | Avg Cost | Total Revenue |
 |---------|--------------|------|-----------|----------|---------------|
@@ -279,9 +396,13 @@ We analyzed 25,000 customers and discovered **5 distinct groups** with very diff
 | 4 | Low-Risk Healthy Base | 6,845 | 27.4% | $27,622 | $189M |
 | **Total** | | **25,000** | **100%** | **$27,147** | **$679M** |
 
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
+
 ---
 
 ## 💡 CX Strategy Recommendations
+
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 ### 1. Retention Crisis Management (Cluster 0)
 - Immediate competitive pricing review
@@ -309,9 +430,13 @@ We analyzed 25,000 customers and discovered **5 distinct groups** with very diff
 - Cluster 3: Education on risk, prevention importance
 - Cluster 4: Wellness maintenance, family benefits
 
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
+
 ---
 
 ## 📁 Deliverables
+
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 **Generated Files:**
 - `insurance_data_clustered.csv` - Dataset with cluster assignments
@@ -325,9 +450,13 @@ We analyzed 25,000 customers and discovered **5 distinct groups** with very diff
 **Jupyter Notebook:**
 - `01_customer_segmentation.ipynb` - Full analysis with code and commentary
 
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
+
 ---
 
 ## 🔄 Next Steps
+
+[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 **Phase 2.2 - Churn Prediction:**
 - Build model to predict churn risk within Cluster 0
