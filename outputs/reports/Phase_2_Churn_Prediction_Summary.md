@@ -2,7 +2,7 @@
 ## Insurance CX Portfolio Project
 
 **Date:** December 30, 2025  
-**Analyst:** Rodion  
+**Analyst:** Rodion Barskov  
 **Status:** ✅ Complete
 
 ---
@@ -241,8 +241,7 @@ A: Minimal. Retention outreach to happy customers strengthens relationships. The
 
 ---
 
-**Prepared by:** Rodion  
-**Contact:** [Your contact info]  
+**Prepared by:** Rodion Barskov 
 **Project:** Insurance CX Portfolio - Phase 2.2 Churn Prediction
 
 ---
