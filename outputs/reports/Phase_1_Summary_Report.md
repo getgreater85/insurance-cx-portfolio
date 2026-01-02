@@ -6,8 +6,6 @@
 **Date:** December 2025 - TBD  
 **Status:** ✅ Phase 1 Complete
 
-[🔝 Back to Top](#phase-1-complete-data-preparation-exploratory-analysis)
-
 ---
 
 ## 📑 Table of Contents
@@ -26,8 +24,6 @@
 ---
 
 ## 📋 Executive Summary
-
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
 
 Phase 1 successfully completed data cleaning, feature engineering, and comprehensive exploratory data analysis on 25,000 insurance policyholders. The cleaned dataset now contains 35 features (11 newly engineered) and is ready for advanced analytics in Phase 2.
 
@@ -63,7 +59,7 @@ Phase 1 successfully completed data cleaning, feature engineering, and comprehen
 ---
 
 
-[🔝 Back to Top](#phase-1-complete-data-preparation--exploratory-analysis)
+[🔝 Back to Top](#phase-1-complete-data-preparation-exploratory-analysis)
 
 ## 🛠️ Data Cleaning Actions
 
