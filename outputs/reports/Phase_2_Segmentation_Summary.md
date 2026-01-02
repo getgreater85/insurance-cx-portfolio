@@ -347,6 +347,6 @@ We analyzed 25,000 customers and discovered **5 distinct groups** with very diff
 ---
 
 **Status:** ✅ Segmentation Complete  
-**Next:** Phase 2.1 Churn Prediction Model
+**Next:** Phase 2.2 Churn Prediction Model
 
 *Analysis Date: December 29, 2025*
