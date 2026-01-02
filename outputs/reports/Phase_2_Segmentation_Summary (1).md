@@ -1,11 +1,9 @@
 # Phase 2: Customer Segmentation - Analysis Summary
 ## Insurance CX Portfolio Project
 
-**Date:** December 29, 2025  
-**Analyst:** Rodion  
+**Date:** December 29, 2025 - ETD 
+**Analyst:** Rodion Barskov 
 **Status:** ✅ Complete
-
-[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 ---
 
@@ -23,8 +21,6 @@
 ---
 
 ## 📋 Executive Summary for Stakeholders
-
-[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 We analyzed 25,000 customers and discovered **5 distinct groups** with very different needs and risks. Here's what matters most:
 
@@ -95,8 +91,6 @@ We analyzed 25,000 customers and discovered **5 distinct groups** with very diff
 
 ## 📊 Technical Segmentation Results
 
-[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
-
 ### Methodology
 - **Algorithm:** K-means clustering
 - **Features:** 11 variables (demographics, health, engagement, business)
@@ -126,8 +120,6 @@ graph LR
 ---
 
 ## 👥 Customer Segments Identified
-
-[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 ### **Cluster 0: "Dual Coverage Premium" (21.4%, n=5,354)**
 
@@ -357,8 +349,6 @@ graph LR
 
 ## 🎯 Key Insights
 
-[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
-
 ### Critical Findings:
 
 1. **Cluster 0 is a ticking time bomb** - 100% dual coverage in highest-paying segment = imminent churn risk of $165M annual revenue
@@ -379,13 +369,9 @@ graph LR
 4. **Medium:** Address Cluster 3 health risks before escalation
 5. **Low:** Maintain Cluster 4 satisfaction
 
-[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
-
 ---
 
 ## 📈 Segment Size & Distribution
-
-[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 | Cluster | Segment Name | Size | % of Base | Avg Cost | Total Revenue |
 |---------|--------------|------|-----------|----------|---------------|
@@ -401,8 +387,6 @@ graph LR
 ---
 
 ## 💡 CX Strategy Recommendations
-
-[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 ### 1. Retention Crisis Management (Cluster 0)
 - Immediate competitive pricing review
@@ -436,8 +420,6 @@ graph LR
 
 ## 📁 Deliverables
 
-[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
-
 **Generated Files:**
 - `insurance_data_clustered.csv` - Dataset with cluster assignments
 - `cluster_profile_summary.csv` - Detailed segment metrics
@@ -449,8 +431,6 @@ graph LR
 
 **Jupyter Notebook:**
 - `01_customer_segmentation.ipynb` - Full analysis with code and commentary
-
-[🔝 Back to Top](#phase-2-customer-segmentation---analysis-summary)
 
 ---
 
