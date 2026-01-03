@@ -1,0 +1,4 @@
+risk_tier,clv_predictive_mean,clv_predictive_median,clv_predictive_sum,clv_with_wellness_mean,clv_with_wellness_median,clv_with_wellness_sum,clv_lift_mean,clv_lift_median,clv_lift_sum,customer_count
+Low Risk,86135.0,78246.0,399750839.0,94288.0,85432.0,437590032.0,8153.0,7628.0,37839193.0,4641
+Medium Risk,64468.0,60301.0,48415290.0,70288.0,65587.0,52786418.0,5820.0,5300.0,4371128.0,751
+High Risk,103111.0,102912.0,217357310.0,112763.0,112449.0,237703546.0,9652.0,9537.0,20346237.0,2108
