@@ -344,7 +344,7 @@ A: Minimal. Retention outreach to happy customers strengthens relationships. The
 **Files Generated:**
 - `churn_predictions.csv` - Individual customer risk scores
 - `churn_feature_importance.csv` - Model coefficients
-- 6 visualization plots (ROC curve, feature importance, etc.)
+- 6 visualization plots (06-ROC curve, 07-feature importance, 08-Confusion Matrix, 09-Probability Distribution, 10-Risk by Segment)
 
 ---
 
